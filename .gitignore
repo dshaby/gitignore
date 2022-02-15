@@ -1,0 +1,5 @@
+#Settings:
+.DS_Store
+
+#Secret Information:
+secrets.txt
